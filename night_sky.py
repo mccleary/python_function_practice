@@ -4,11 +4,6 @@ import random
 
 speed(0)
 bgcolor("black")
-# star_outline(50, True, "white")
-# up()
-# forward(200)
-# down()
-# star_outline(10, True, "yellow")
 
 for i in range(200):
     height = window_height()
